@@ -3,10 +3,9 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Stack
-- Vue3
+- Vue3 + TypeScript
 - Pinia + Pinia Persistedstate
-- Tailwindcss
-- Vant-UI
+- Vant-UI + Tailwindcss
 - Axios
 - Dayjs
 
